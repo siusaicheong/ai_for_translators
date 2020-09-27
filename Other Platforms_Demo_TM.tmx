@@ -1,0 +1,392 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="memsource_tool" creationtoolversion="2.0" segtype="sentence" o-tmf="memsourceTM" adminlang="en" srclang="en" datatype="unknown" creationdate="20171121T153701Z">
+    <prop type="name">tm20171121</prop>
+  </header>
+  <body>
+    <tu tuid="3s4dVDjNgha2Ni402XxRgCNZ0">
+      <tuv xml:lang="en">
+        <seg>While the number of job vacancies is still at a relatively high level, some employers have adopted a more cautious attitude towards staff hiring.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>雖然目前的職位空缺數目仍處於較高水平，但部分僱主的招聘意欲已漸趨謹慎。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="fnoF19QL0AF8Uag0UV5y2VCj3">
+      <tuv xml:lang="en">
+        <seg>According to the latest labour force statistics (provisional figures for June - August 2012) released today (September 18) by the Census and Statistics Department, the seasonally adjusted unemployment rate stood at 3.2% in June - August 2012, same as that in May - July 2012.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>根據政府統計處今日（九月十八日）發表的最新勞動人口統計數字（二零一二年六月至八月的臨時數字），二零一二年六月至八月經季節性調整的失業率為3.2%，與二零一二年五月至七月的數字相同。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7TBrGiENgKZ2u08wWaxhprp10">
+      <tuv xml:lang="en">
+        <seg>Over the same period, the number of underemployed persons also increased by around 6 800 from 56 600 to 63 400.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>同期的就業不足人數亦由56 600人上升至63 400人，增加約6 800人。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3AmYFH9d0eM48V8wObwgnPdo1">
+      <tuv xml:lang="en">
+        <seg>Further Information</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>進一步資料</seg>
+      </tuv>
+    </tu>
+    <tu tuid="A3cHVcrjw9o20E900u6kdxrA3">
+      <tuv xml:lang="en">
+        <seg>Comparing June - August 2012 with May - July 2012, increases in the unemployment rate (not seasonally adjusted) were mainly observed in the warehousing and support activities for transportation, and professional and business services (excluding cleaning and similar activities) sectors, while decreases were mainly observed in the construction and real estate sectors.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>與二零一二年五月至七月比較，二零一二年六月至八月期間失業率（不經季節性調整）的上升主要見於貨倉及運輸輔助活動業和專業及商用服務業（不包括清潔及同類活動），而下跌則主要見於建造業及地產業。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="XFu3dIytg6M26N4MefMvnIsl">
+      <tuv xml:lang="en">
+        <seg>Commentary</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>評論</seg>
+      </tuv>
+    </tu>
+    <tu tuid="R2e2d0rfxtj5Kz9EAB1KA2Up0">
+      <tuv xml:lang="en">
+        <seg>The number of unemployed persons (not seasonally adjusted) increased by around 3 100 from 128 500 in May - July 2012 to 131 600 in June - August 2012.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>失業人數（不經季節性調整）由二零一二年五月至七月的128 500人，上升至二零一二年六月至八月的131 600人，增加約3 100人。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="gD3dXxliw3C2Dh4czNwrhZeC">
+      <tuv xml:lang="en">
+        <seg>The Department held eleven large-scale job fairs from January to August 2012.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>該處於今年一月至八月已舉行11個大型招聘會。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2MwN0Vlxx19841A0gtfI2rq8f">
+      <tuv xml:lang="en">
+        <seg>Commenting on the latest unemployment figures, the Secretary for Labour and Welfare, Mr Matthew Cheung Kin-chung, said, "The labour market conditions held largely stable during the summer period.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>勞工及福利局局長張建宗在評論最新失業數字時表示：「勞工市場情況在夏季期間大致維持穩定。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="h7JAVXPM0eE5A99U7kwofBmR0">
+      <tuv xml:lang="en">
+        <seg>The Department will continue to organise large-scale job fairs in different locations from time to time, canvassing vacancies from different industries for application by job-seekers on-the-spot.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>勞工處會繼續在不同地區舉辦大型招聘會，網羅不同行業的空缺，供求職人士即時申請。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="uJgsHZ1J0iJb0YBw0W4U3Exy5">
+      <tuv xml:lang="en">
+        <seg>Altogether, 336 organisations conducted on-the-spot recruitment in the job fairs, offering over 29 000 vacancies.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>共有336間機構即場進行招聘，合共提供超過29 000個職位空缺。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="CKoyuz8G0wu5UN882n0wOY9D3">
+      <tuv xml:lang="en">
+        <seg>While total employment decreased slightly by around 4 400 to 3 671 300 in June - August 2012 after several months of upsurge, the seasonally adjusted unemployment rate remained unchanged at a low level of 3.2%."</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>縱使總就業人數經過幾個月的增長後，在最新季度稍微下跌約4 400人至3 671 300人，但經季節性調整後，失業率繼續維持在3.2%的低位。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="p6IC1lBGwXm5uV9gXL0IcR1b3">
+      <tuv xml:lang="en">
+        <seg>The survey for June - August 2012 covered a sample of some 24 000 households or 72 000 persons, selected in accordance with a scientifically designed sampling scheme to represent the population of Hong Kong.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>二零一二年六月至八月的樣本包括約24 000個住戶，約共72 000人。統計調查所用樣本，是從本港人口中以一個根據科學方法設計的抽樣系統選出。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="QecBhSUR0u45Qi8UJkwij0Pt3">
+      <tuv xml:lang="en">
+        <seg>Over the same period, the labour force also decreased by around 1 200 from 3 804 200 to 3 803 000.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>同期的總勞動人口亦由3 804 200人下跌至3 803 000人，減少約1 200人。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="GwrBUx1pxkX5cd8gFY1UyuzK1">
+      <tuv xml:lang="en">
+        <seg>Another three more job fairs will be held in Sham Shui Po in November.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>此外，亦會在十一月於深水埗區舉行三個招聘會。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="nfTPB4eB0m35648UCX1sABLF3">
+      <tuv xml:lang="en">
+        <seg>As to the underemployment rate, increases were mainly seen in the construction, and food and beverage service activities sectors.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>就業不足率方面，上升主要見於建造業和餐飲服務活動業。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="aXiazMEu0SZ4ic98IPw3S30r0">
+      <tuv xml:lang="en">
+        <seg>In the survey, the definitions used in measuring unemployment and underemployment follow closely those recommended by the International Labour Organisation.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>統計調查所採用有關失業及就業不足的定義，基本上依從國際勞工組織的建議。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="RBK3D8QYMpo2e34o1110CvOH5">
+      <tuv xml:lang="en">
+        <seg>Ten training bodies also took part in two of the job fairs to receive job-training applications.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>另有10間培訓機構參加了其中兩個招聘會接受就業培訓申請。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="g5uGfzYfgpX2MG44u7w1waQU1">
+      <tuv xml:lang="en">
+        <seg>Detailed analysis of labour force characteristics is given in the "Quarterly Report on General Household Survey" which is published four times a year.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>每年出版四次的《綜合住戶統計調查按季統計報告》，詳細分析有關勞動人口的特徵。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4C9yTxA2gss2Fy40uU0CO0xV1">
+      <tuv xml:lang="en">
+        <seg>The unemployment and underemployment statistics were compiled from the findings of the continuous General Household Survey.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>失業和就業不足的統計數字，是根據持續進行的「綜合住戶統計調查」結果編製。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="hTLLe8A1waL5K0j0w0bwwDDn1">
+      <tuv xml:lang="en">
+        <seg>Three job fairs will be held in Tsuen Wan from October 10 to 12, with 57 employers offering over 4 000 vacancies from the retail, catering, property management and other industries.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>該處將於十月十至十二日在荃灣舉行三個大型招聘會，57間機構將提供超過4 000個來自零售、飲食、物業管理及其他行業的空缺。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="Z65GRs9qMv05Ym8oMlw8hSt40">
+      <tuv xml:lang="en">
+        <seg>The Labour Department will also continue its efforts in providing comprehensive employment service to job-seekers."</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>勞工處亦會繼續為本地求職人士提供全面的就業支援服務。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="cc9L0E69x7S5eY8weh1q0Yi74">
+      <tuv xml:lang="en">
+        <seg>We will stay alert and monitor development closely.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>我們須保持警覺，密切留意情況發展。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="dNGqYLzs00r9IBgM8i2qOGYm3">
+      <tuv xml:lang="en">
+        <seg>The underemployment rate increased from 1.5% in May - July 2012 to 1.7% in June - August 2012.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>就業不足率則由二零一二年五月至七月的1.5%上升至二零一二年六月至八月的1.7%。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="tgXs0aur1Qq9EJgMDS18ds1Q9">
+      <tuv xml:lang="en">
+        <seg>Total employment decreased by around 4 400 from 3 675 700 in May - July 2012 to 3 671 300 in June - August 2012.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>總就業人數由二零一二年五月至七月的3 675 700人，下跌至二零一二年六月至八月的3 671 300人，減少約4 400人。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="wZMH0buZwcf5ow80AS1e41sb8">
+      <tuv xml:lang="en">
+        <seg>In August 2012, the number of private sector vacancies recorded by the Labour Department increased by 12.8% from 96 912 in the previous month to 109 273, and up by 36.1% over 80 315 in the same period last year.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>在二零一二年八月，勞工處錄得的私營機構職位空缺為109 273個，與二零一二年七月的96 912個比較上升12.8%，較去年同期80 315個則上升36.1%。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="SnMRKT1S1698EJi0qx761x3c9">
+      <tuv xml:lang="en">
+        <seg>The current issue of the publication covering the quarter April - June 2012 is now available and the next issue covering the quarter July - September 2012 will be available by end November 2012.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>二零一二年四月至六月的刊物現已備妥，而二零一二年七月至九月的刊物將於二零一二年十一月底出版。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="aNKKXaPZ000l0o91C60MrXau8">
+      <tuv xml:lang="en">
+        <seg>Users can download this publication free of charge at the website of the Census and Statistics Department (www.censtatd.gov.hk/hkstat/sub/sp200.jsp?productCode=B1050001).</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>用戶可以在政府統計處網站（www.censtatd.gov.hk/hkstat/sub/sp200_tc.jsp?productCode=B1050001）免費下載本刊物。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="atmkp2I80KC521igh92BUxKJ0">
+      <tuv xml:lang="en">
+        <seg>Enquiries for labour force statistics for June - August 2012 can be directed to the General Household Survey Section (2), Census and Statistics Department (Tel.: 2887 5508; Fax: 2508 1501; e-mail: ghs@censtatd.gov.hk).</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>有關二零一二年六月至八月的勞動人口統計數字的查詢，可聯絡政府統計處綜合住戶統計調查組（二）（電話：2887 5508；圖文傳真：2508 1501；電子郵遞：ghs@censtatd.gov.hk）。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="mhFYAH2E0KM5at9EyEwqORqI0">
+      <tuv xml:lang="en">
+        <seg>On the short-term outlook, Mr Cheung said, "The employment situation hinges on the overall economic performance and in particular the pace of job creation in the corporate sector.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>就短期展望，張建宗說：「就業情況將視乎整體經濟表現，尤其是企業創造職位的步伐。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="EV4C0RXG0M0igcC0Ch3ITmNxa">
+      <tuv xml:lang="en">
+        <seg>Moreover, increasing downside risks in the external environment will add further uncertainties to the overall economic outlook in Hong Kong.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>另外，隨着外圍環境轉壞的風險進一步增加，本港經濟前景將增添更多不明朗因素。</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8Ja8GxWlM3k2wl40kUx7a1wB1">
+      <tuv xml:lang="en">
+        <seg>Data on labour force characteristics were obtained from the survey by interviewing each member aged 15 or over in the sampled households.</seg>
+      </tuv>
+      <tuv xml:lang="zh-tw" creationdate="20171121T153654Z" changedate="20171121T153654Z">
+        <prop type="reviewed">false</prop>
+        <prop type="aligned">false</prop>
+        <prop type="created_at">1511278614000</prop>
+        <prop type="modified_at">1511278614000</prop>
+        <seg>統計調查是向樣本中各住戶內每名十五歲或以上的成員進行訪問，以搜集有關勞動人口特徵的資料。</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
